@@ -5,6 +5,33 @@ Notes App
 Problem Statement:
 Note-taking is the process of capturing information from a source or event. This usually takes the form of recording, writing, jotting, paraphrasing, sketching, labelling, outlining, and annotating. Note-taking applications enable users to type, write, and draw on their devices just as they would on paper. Many applications have their own unique features, storage, organization, and sharing capabilities, and it’s up to the user to identify which note-taking application will work best for their needs.
 
+![image](https://user-images.githubusercontent.com/91894307/148672383-f321abd0-cfce-453e-86e0-e3df287fab0c.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Proposed Solution :
 
